@@ -16,5 +16,8 @@
     "Test"
   ],
   "author": "Marque Ray",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
